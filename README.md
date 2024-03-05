@@ -1,1 +1,5 @@
-API utilizando Node.js juntamente com express para subir produtos em banco de dados
+API Project
+<hr>
+technologys: JavaScript, Node.js
+<hr>
+description: database simulation for product registration.
