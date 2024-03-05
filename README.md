@@ -1,5 +1,5 @@
 API Project
 <hr>
-technologys: JavaScript, Node.js
+technologys: JavaScript and Node.js
 <hr>
 description: database simulation for product registration.
