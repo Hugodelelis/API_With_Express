@@ -1,5 +1,5 @@
 # About:
-<br>Database simulation to upload products through express and node.
+<br>Database simulation to upload products through express and node in Postmam.
 
 
 # 💻 Technologies:
